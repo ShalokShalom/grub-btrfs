@@ -1,6 +1,6 @@
 pkgname=grub-btrfs
 pkgrel=1
-pkgver='0.6'
+pkgver=0.6
 pkgdesc="grub-btrfs, add support for btrfs snapshots into grub menu"
 arch=('x86_64')
 url="https://github.com/Antynea/grub-btrfs"
