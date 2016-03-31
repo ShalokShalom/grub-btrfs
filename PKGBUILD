@@ -1,4 +1,4 @@
-pkgname=grub-btrfs-git
+pkgname=grub-btrfs
 pkgrel=1
 pkgver=1.7.2
 pkgdesc="grub-btrfs, add support for btrfs snapshots into grub menu"
